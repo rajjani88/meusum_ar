@@ -121,10 +121,8 @@ Building open-source projects takes time and coffee! If this project helped you 
 **Are you a business looking for custom features, a tailored backend, or white-labeling?** 
 Sponsor the project to get priority support and feature requests!
 
-- 💸 **[Buy Me A Coffee](https://buymeacoffee.com/your-username)**  *(Replace with actual link)*
-- 💖 **[Sponsor me on GitHub](https://github.com/sponsors/your-username)** *(Replace with actual link)*
-- 💼 **[Patreon / Custom Development Enquiries](https://patreon.com/your-username)** *(Replace with actual link)*
-
+- 💸 **[Buy Me A Coffee](buymeacoffee.com/rajjani)**
+- 💖 **[Sponsor me on GitHub](https://github.com/sponsors/rajjani88)** 
 ---
 
 ## 📜 License

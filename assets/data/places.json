@@ -1,0 +1,81 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "icon": "🍕",
+      "description": "Fresh pizza ready to serve",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "position": [0.0, 0.0, -5.0],
+      "section": "Food Court",
+      "distance": 5.0,
+      "arImageUrl": "https://via.placeholder.com/300?text=Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Beverages",
+      "icon": "🥤",
+      "description": "Cold and hot drinks",
+      "latitude": 40.7130,
+      "longitude": -74.0055,
+      "position": [3.0, 0.0, -8.0],
+      "section": "Drinks",
+      "distance": 8.5,
+      "arImageUrl": "https://via.placeholder.com/300?text=Beverages"
+    },
+    {
+      "id": 3,
+      "name": "Bakery",
+      "icon": "🥐",
+      "description": "Fresh baked goods",
+      "latitude": 40.7132,
+      "longitude": -74.0050,
+      "position": [-4.0, 0.0, -6.0],
+      "section": "Bakery",
+      "distance": 7.2,
+      "arImageUrl": "https://via.placeholder.com/300?text=Bakery"
+    },
+    {
+      "id": 4,
+      "name": "Dairy",
+      "icon": "🧀",
+      "description": "Milk and dairy products",
+      "latitude": 40.7125,
+      "longitude": -74.0065,
+      "position": [2.0, 0.0, -3.0],
+      "section": "Dairy",
+      "distance": 3.6,
+      "arImageUrl": "https://via.placeholder.com/300?text=Dairy"
+    },
+    {
+      "id": 5,
+      "name": "Vegetables",
+      "icon": "🥬",
+      "description": "Fresh vegetables and fruits",
+      "latitude": 40.7135,
+      "longitude": -74.0045,
+      "position": [-2.0, 0.0, -10.0],
+      "section": "Produce",
+      "distance": 10.2,
+      "arImageUrl": "https://via.placeholder.com/300?text=Vegetables"
+    },
+    {
+      "id": 6,
+      "name": "Kangaru Statue",
+      "icon": "🦘",
+      "description": "A famous Kangaru Statue",
+      "latitude": 40.7136,
+      "longitude": -74.0040,
+      "position": [-10.0, 0.0, -3.0],
+      "waypoints": [
+        [0.0, 0.0, 0.0],
+        [0.0, 0.0, -3.0],
+        [-10.0, 0.0, -3.0]
+      ],
+      "section": "Landmarks",
+      "distance": 13.0,
+      "arImageUrl": "https://via.placeholder.com/300?text=Kangaru+Statue"
+    }
+  ]
+}
